@@ -13,7 +13,7 @@ class CreateDataTable extends Migration
      */
     public function up()
     {
-        Schema::create('data', function (Blueprint $table) {
+        Schema::create('data_insights', function (Blueprint $table) {
             $table->id();
             $table->year('end_year')->nullable();
             $table->decimal('citylng', 10, 7)->nullable();
@@ -48,6 +48,6 @@ class CreateDataTable extends Migration
      */
     public function down()
     {
-        Schema::dropIfExists('data');
+        Schema::dropIfExists('data_insights');
     }
 }

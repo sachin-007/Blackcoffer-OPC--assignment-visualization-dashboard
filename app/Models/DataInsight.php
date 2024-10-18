@@ -6,7 +6,7 @@ use Illuminate\Database\Eloquent\Model;
 
 class DataInsight extends Model
 {
-    protected $table = 'data';
+    protected $table = 'data_insights';
 
 
     // Define fillable fields to allow mass assignment
