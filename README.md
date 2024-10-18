@@ -102,3 +102,23 @@ The frontend includes the following libraries for data visualization:
 - **Sachin**
 - Email: [sachinbachhav006@gmail.com](mailto:sachinbachhav006@gmail.com)
 - GitHub: [github.com/sachin-007](https://github.com/sachin-007)
+
+
+
+Here is an example of how the page creation looks:
+
+# home page ( with filters ) and Intensity Trends Over Time and Regional Distribution
+![ home ](/storage/app/public/snapshots/d1.png)
+
+# Topic Analysis
+![ create page and add block ](/storage/app/public/snapshots/d2.png)
+
+# PESTLE Analysis
+![ create page and add block ](/storage/app/public/snapshots/d3.png)
+
+# Likelihood vs Relevance Analysis
+![ create page and add block ](/storage/app/public/snapshots/d4.png)
+
+<!-- # Video preview  -->
+
+

@@ -27,6 +27,7 @@
 <div class="container-fluid">
     <!-- Filters Section -->
     <div class="filter-section">
+        <h4>Filters</h4>
         <div class="row">
             <div class="col-md-3 mb-3">
                 <label>End Year</label>
