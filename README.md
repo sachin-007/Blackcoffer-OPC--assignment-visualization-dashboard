@@ -96,11 +96,6 @@ The frontend includes the following libraries for data visualization:
   
   The charts and graphs are dynamically generated and allow real-time filtering using AJAX requests to the backend API.
 
-## License
-
-This project is open-source and available under the [MIT License](LICENSE).
-
----
 
 ### Developer
 
